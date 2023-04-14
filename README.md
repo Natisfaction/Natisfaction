@@ -7,8 +7,7 @@ I often remember spending my afternoons coding simple games like the Tris game o
 
 However, my coding journey took a turn when I challenged myself to create an OS from scratch.
 I remember waking up one Sunday morning, wondering if I could create one.
-It was a time-consuming task that required extensive research and learning. Despite this, I did manage to create an OS called NaitOS.
-While it's not perfect and still requires some refactoring, I'm really proud of what I accomplished so far.
+It was a time-consuming task that required extensive research and learning. Despite this, I did manage to create a really basic OS called NaitOS.
+While it's not perfect and still requires some refactoring, I'm really proud of what I accomplished so far. I'm no longer coding it, because I recently teamed up with a friend, and we decided to create another OS, this time using UEFI to make it simpler and newer. And now, due to my better coding experience, I should be able to make the new OS better.
 
-Recently, I teamed up with a friend, and we decided to create another one, this time using UEFI to make it simpler.
-Will we be able to code it? Only time will tell.
+Will we be able to code the new OS??? Only time will tell.
