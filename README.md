@@ -13,4 +13,4 @@ While it's not perfect and still requires some refactoring, I'm really proud of 
 Will we be able to code the new OS??? Only time will tell.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natisfaction&layout=compact)
-[![Natisfaction's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natisfaction)](https://github.com/Natisfaction/)
+![Natisfaction's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natisfaction&show_icons=true)
