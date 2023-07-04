@@ -11,5 +11,3 @@ It was a time-consuming task that required extensive research and learning. Desp
 While it's not perfect and still requires some refactoring, I'm really proud of what I accomplished so far. I'm no longer coding it, because I recently teamed up with a friend, and we decided to create another OS, this time using UEFI to make it simpler and newer. And now, due to my better coding experience, I should be able to make the new OS better.
 
 ![Natisfaction's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natisfaction&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natisfaction)
