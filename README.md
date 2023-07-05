@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm another guy that loves coding :D
+I'm another guy that loves coding, and another Open Source software fan :D
 
 Favourite coding languages:
 
