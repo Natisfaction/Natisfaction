@@ -8,4 +8,4 @@ Favourite coding languages:
 -  C / C++
 -  Python
 
-![Natisfaction's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natisfaction&show_icons=true&theme=synthwave)
+![Natisfaction's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natisfaction&show_icons=true&theme=cobalt)
