@@ -1,16 +1,16 @@
 ### Hello there! 👋
 
-I'm just another guy that loves coding.
+I'm a student which really likes coding.
 
-Favourite coding languages:
+My favourites coding languages:
 
 -  ***Assembly*** ❤️
--  ***C / C++*** 🤝
+-  ***C*** and ***C++*** ✌️
+-  ***Swift*** and ***SwiftUI*** 🫶
 -  ***Python*** 🐍
 
 My best repositories:
 -  ***[NaitOS](https://github.com/Natisfaction/NaitOS)*** 💀
--  ***[ChangeMyMac](https://github.com/LeoArs06/ChangeMyMAC)*** 🔥
--  ***[Reverse_Malware](https://github.com/Natisfaction/Reverse_Malware)*** 💡
+-  ***[ChangeMyMac](https://github.com/LeoArs06/ChangeMyMAC)*** ☠️
 
 ![Natisfaction's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natisfaction&show_icons=true&theme=tokyonight)
