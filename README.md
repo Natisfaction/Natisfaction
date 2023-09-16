@@ -5,9 +5,9 @@ I'm a student which really likes low level coding.
 My favourites coding languages, which I really like and I'm skilled at:
 -  ❤️ **Assembly**
 -  💛 **C** and **C++**
--  💚 ❤**Swift** and **SwiftUI**
+-  💚 **Swift** and **SwiftUI**
 
--  💙 ❤**Python**
+-  💙 **Python**
 
 Other coding language I learnt:
 -  ☕ **Java**
