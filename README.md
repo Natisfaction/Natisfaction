@@ -1,7 +1,5 @@
 ### Hello there! 👋
 
-I'm a student which really likes low level coding. I also enjoy some high level coding, expecially to use **Swift**.
-
 My favourites coding languages, which I really like and I'm skilled at:
 -  ❤️ **Assembly**
 -  💛 **C** and **C++**
